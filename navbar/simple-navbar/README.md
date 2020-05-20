@@ -1,0 +1,1 @@
+Base html and css styles of a simple navbar.
